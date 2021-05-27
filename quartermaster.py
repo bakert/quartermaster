@@ -1,3 +1,9 @@
+# Commander Quartermaster Legal List Generator
+# (c) 2021 bakert@gmail.com
+# MIT License
+# github.com/bakert/quartermaster
+# See: commandthecause.org
+
 import json
 import time
 from urllib import request
